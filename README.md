@@ -8,7 +8,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 
 - **Java 17** o superior.
 - **Maven** para gestionar dependencias.
-- **Postman** para probar los endpoints de la API.
+- **Postman** para probar los endpoints de la API. Se adjunta Collection
 
 ## Clonar el Repositorio
 
